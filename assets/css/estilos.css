@@ -21,7 +21,10 @@ body{
 
 a {text-decoration: none; }
 
-a:hover {color: var(--primary);}
+a:hover {
+    color: var(--primary);
+    font-weight: 900;
+}
 
 ::placeholder{ font-style: italic;}
 
