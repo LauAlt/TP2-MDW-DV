@@ -1,0 +1,22 @@
+Altamiranda, Laura Raquel 	laura.altamiranda@davinci.edu.ar
+Rubio, Ana		            ana.rubio@davinci.edu.ar
+Teruggi, Jorgelina 		jorgelina.teruggi@davinci.edu.ar
+Torres, Juan Sebastian  	juan.torres@davinci.edu.ar
+
+
+Tareas
+
+Header > Sebastián / Jorgelina
+Cards > Jorgelina / Ana
+Sección Principal > Laura / Ana / Jorgelina / Sebastián
+Iframe > Ana / Jorgelina / Sebastián / Laura 
+FAQs > Laura / Ana
+Formulario > Laura / Sebastián / Ana
+Footer > Laura / Sebastián / Jorgelina
+
+
+
+Link a web subida: 
+
+https://tp-2-mdw-dv.vercel.app/
+
